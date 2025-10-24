@@ -155,6 +155,7 @@ telnet <device-ip> 23
 
 ## Credits
 
+- [paelzer/p43lz3r_Waveshare_ESP32S3_Touch_LCD_7_LVGL_CANbus](https://github.com/paelzer/p43lz3r_Waveshare_ESP32S3_Touch_LCD_7_LVGL_CANbus) - Invaluable reference for Waveshare ESP32-S3 with LVGL and CAN bus integration
 - ESP32 Display Panel Library
 - LVGL - Graphics library
 - eModbus - Modbus TCP library
